@@ -6,6 +6,7 @@ Each node in the grid is assumed to be the center of a hex and the movement can 
 The plotting device does not modify the output of the program. The modifications are local.
 
 Files
-singlerw.m  Simulates a single random walk. just press F5
-rwhex1.m    This is the engine that moves the random walk
-plotthex1   Plotting device.
+
+- singlerw.m  Simulates a single random walk. just press F5
+- rwhex1.m    This is the engine that moves the random walk
+- plotthex1   Plotting device.
